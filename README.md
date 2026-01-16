@@ -1,4 +1,4 @@
-# Time_Series_Analysis_and_Forecasting-Python-
+# Time Series Analysis and Forecasting (Python)
 ## Introduction to Fundamentals
 
 Visuals
